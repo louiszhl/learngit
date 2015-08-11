@@ -3,3 +3,4 @@ Git is free software distributed under the GPL.
 Louis
 123456
 git tracks changes.
+Git tracks changes of files.
